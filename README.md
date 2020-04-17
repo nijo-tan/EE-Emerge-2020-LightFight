@@ -9,7 +9,7 @@
 # Project Team
 	Nicholas Newcomb, Jennifer Dacanay, Ameer Mahmood Al-lawati, Katherine Tedjo, Nijo Tan, Derek Everhart
 # Acknowledgments
-	A big thank you to **Nicholas Newcomb** for taking on a lead with this project and helping to being our idea to fruition! 
+	A big thank you to *Nicholas Newcomb* for taking on a lead with this project and helping to being our idea to fruition! 
 	Thank you to Gonzalo Bernal Morhaim for working on this project with us up until Spring Quarter. 
 	Thank you to TA Sean Alling, who guided us and helped us with every aspect of the project. 
 	And a big thank you to Professor Knossen for the help and guidence.
