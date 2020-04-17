@@ -4,7 +4,8 @@
 # About the Project
 	LightFight is a 2-4 player game, where you race against each other until you fill up your light meter!
 # Getting Started
-# How to Get Help
+	This idea came up when Nicholas and Derek were brainstorming together one day. With the ambition of our team leader
+	Nick helped bring this idea to life.
 # Project Team
 	Nicholas Newcomb, Jennifer Dacanay, Ameer Mahmood Al-lawati, Katherine Tedjo, Nijo Tan, Derek Everhart
 # Acknowledgments
