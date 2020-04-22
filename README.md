@@ -9,7 +9,7 @@ This idea came up when Nicholas and Derek were brainstorming together one day. W
 # Project Team
 * **[Nicholas Newcomb](https://github.com/Nick-Newcomb)** - *Team Leader*
 * **[Jennifer Dacanay](https://github.com/JenDacanay)**
-* **[Ameer Mahmood Al-lawati]()**
+* **[Ameer Mahmood Al-lawati](https://github.com/AmeerAllawati)**
 * **[Katherine Tedjo](https://github.com/mkatherine)**
 *  **[Nijo Tan](https://github.com/nijo-tan)**
 * **[Derek Everhart]()**
