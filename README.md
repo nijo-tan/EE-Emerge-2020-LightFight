@@ -12,7 +12,7 @@ This idea came up when Nicholas and Derek were brainstorming together one day. W
 * Ameer Mahmood Al-lawati
 * Katherine Tedjo
 *  **[Nijo Tan](https://github.com/nijo-tan)**
-* Derek Everhart
+* **[Derek Everhart]()**
 * Andre Knoesen - Professor
 * **[Sean Alling](https://github.com/SeanAlling)** - *Teaching Assistant*
 # Acknowledgments
