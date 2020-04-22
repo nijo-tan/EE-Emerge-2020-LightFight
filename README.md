@@ -11,7 +11,7 @@ This idea came up when Nicholas and Derek were brainstorming together one day. W
 * Jennifer Dacanay
 * Ameer Mahmood Al-lawati
 * Katherine Tedjo
-*  **[Nijo Tan](https://github.com/nijo-tan)
+*  **[Nijo Tan](https://github.com/nijo-tan)**
 * Derek Everhart
 * Andre Knoesen - Professor
 * **[Sean Alling](https://github.com/SeanAlling)** - *Teaching Assistant*
