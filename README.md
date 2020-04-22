@@ -5,12 +5,12 @@
 LightFight is a 2-4 player game, where you race against each other until you fill up your light meter!
 
 # Getting Started
-This idea came up when Nicholas and Derek were brainstorming together one day. With the ambition of our team leader, Nick, this idea came to life.
+This idea came up when Nicholas and Derek were brainstorming together one day. With the ambition of our team leader, **Nick**, Lightfight was born.
 # Project Team
 * **[Nicholas Newcomb](https://github.com/Nick-Newcomb)** - *Team Leader*
-* **[Jennifer Dacanay]()**
+* **[Jennifer Dacanay](https://github.com/JenDacanay)**
 * **[Ameer Mahmood Al-lawati]()**
-* **[Katherine Tedjo]()**
+* **[Katherine Tedjo](https://github.com/mkatherine)**
 *  **[Nijo Tan](https://github.com/nijo-tan)**
 * **[Derek Everhart]()**
 * Andre Knoesen - Professor
