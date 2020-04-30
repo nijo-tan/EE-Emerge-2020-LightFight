@@ -50,6 +50,19 @@ This will create a new root folder "EE-Emerge2020-LightFight" that will contain 
 
 ## Installation
 
+1. Open Code Composer Studio
+1. Create a new workspace 
+    * File -> Switch Workspace -> Other
+1. Browse to where the project repository was closed. 
+1. Press launch
+1. Import projects
+    1. Project -> Import CCS Projects
+    1. Press Browse
+    1. Select root folder that was cloned.
+    1. Press OK 
+    1. Checkmark all projects
+    1. Press Finish
+1. Build each project one by one
 
 
 ## Building
