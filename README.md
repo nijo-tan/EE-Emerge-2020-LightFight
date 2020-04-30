@@ -1,4 +1,4 @@
-# LightFight 
+# EE Emerge 2020 - LightFight 
 
 ## Table of Contents
 
