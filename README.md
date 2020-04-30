@@ -76,7 +76,7 @@ This will create a new root folder "EE-Emerge2020-LightFight" that will contain 
 * **[Ameer Mahmood Al-lawati](https://github.com/AmeerAllawati)**
 * **[Katherine Tedjo](https://github.com/mkatherine)**
 *  **[Nijo Tan](https://github.com/nijo-tan)**
-* **[Derek Everhart]()**
+* **[Derek Everhart](https://github.com/derekeverhart)**
 * Andre Knoesen - Professor
 * **[Sean Alling](https://github.com/SeanAlling)** - *Teaching Assistant*
 
