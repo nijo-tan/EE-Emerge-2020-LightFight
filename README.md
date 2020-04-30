@@ -29,6 +29,19 @@ This idea came up when Nicholas and Derek were brainstorming together one day. W
 
 ## Dependencies
 
+### Required 
+In order to build the firmware, [TI Code Composer](https://software-dl.ti.com/ccs/esd/documents/ccs_downloads.html) should be installed. When prompted select to add support for MSP430 and MSP432 microcontrollers.
+
+
+## Getting the Source
+
+This project is [hosted on GitHub](https://github.com/nijo-tan/EE-Emerge-2020-LightFight). You can clone this project directly using this command:
+
+```
+git clone https://github.com/nijo-tan/EE-Emerge-2020-LightFight
+```
+
+This will create a new root folder "EE-Emerge2020-LightFight" that will contain all projects for LightFight.
 
 
 ## Installation
