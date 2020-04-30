@@ -26,6 +26,19 @@ In order to get help, please order a github issue.
 
 ## Getting Started
 This idea came up when Nicholas and Derek were brainstorming together one day. With the ambition of our team leader, **Nick**, Lightfight was born.
+
+## Dependencies
+
+
+
+## Installation
+
+
+
+## Building
+
+
+
 ## Project Team
 * **[Nicholas Newcomb](https://github.com/Nick-Newcomb)** - *Team Leader*
 * **[Jennifer Dacanay](https://github.com/JenDacanay)**
