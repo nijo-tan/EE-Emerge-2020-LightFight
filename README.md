@@ -21,8 +21,12 @@ Our project was completed over the course of three quarters in EE-Emerge. The cl
 
 We would also like to extend a special thank you to Sean Alling, EE-Emerge Teaching Assistant, whose instruction has been instrumental to our success.
 
+**[Back to top](#table-of-contents)**
+
 ## Contact Us
 In order to get help, please order a github issue.
+
+**[Back to top](#table-of-contents)**
 
 ## Getting Started
 This idea came up when Nicholas and Derek were brainstorming together one day. With the ambition of our team leader, **Nick**, Lightfight was born.
@@ -51,6 +55,7 @@ This will create a new root folder "EE-Emerge2020-LightFight" that will contain 
 ## Building
 
 
+**[Back to top](#table-of-contents)**
 
 ## Project Team
 * **[Nicholas Newcomb](https://github.com/Nick-Newcomb)** - *Team Leader*
@@ -62,6 +67,7 @@ This will create a new root folder "EE-Emerge2020-LightFight" that will contain 
 * Andre Knoesen - Professor
 * **[Sean Alling](https://github.com/SeanAlling)** - *Teaching Assistant*
 
+**[Back to top](#table-of-contents)**
  
 ## Acknowledgements
 A big thank you to *Nicholas Newcomb* for taking on a lead with this project and helping to being our idea to fruition! Thank you to Gonzalo Bernal Morhaim for working on this project with us up until Spring Quarter. Thank you to TA Sean Alling, who guided us and helped us with every aspect of the project. And a big thank you to Professor Knossen for the help and guidence.
