@@ -2,7 +2,13 @@
 
 
 # About the Project
-LightFight is a 2-4 player game, where you race against each other until you fill up your light meter!
+It was our intent to develop a game that would enjoyable for people of all ages. We really wanted something that would be highly entertaining from ages 5 all the way up. With that in mind we decided to focus on identifying something that could generate just a few seconds of fun and then capitalizing on that. The result was LightFight. 5 minutes of button smashing, rainbow strobing fun. 
+
+LightFight is a two player competitive game that has users smashing buttons as fast as possible in a race to the finish. The game is centralized around a common "Control Light" that changes color randomly. Each user will press a corresponding button based on the color of the Control Light. Each time a user correctly presses a button they will be awarded a point. Each time a user presses the incorrect button they will lose a point. Correct button presses are Indicated by a flashing "Progress Light". Each Progress light will remain on after a total of 5 correct presses. Once all of an individual's Progress Lights are lit the associated player wins.
+
+Our project was completed over the course of three quarters in EE-Emerge. The class was sponsored by Texas Instruments who has been a great supporter throughout our learning process. LightFight was designed using the Texas Instruments MSP430 Microcontroller and Energia IDE. 
+
+We would also like to extend a special thank you to Sean Alling, EE-Emerge Teaching Assistant, whose instruction has been instrumental to our success.
 
 # Getting Started
 This idea came up when Nicholas and Derek were brainstorming together one day. With the ambition of our team leader, **Nick**, Lightfight was born.
