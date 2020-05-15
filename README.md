@@ -47,7 +47,11 @@ git clone https://github.com/nijo-tan/EE-Emerge-2020-LightFight
 
 This will create a new root folder "EE-Emerge2020-LightFight" that will contain all projects for LightFight.
 
-Another valuable asset is out [Hackster.io](https://www.hackster.io/light-fight/light-fight-1a2e35) page.
+## Hackster.io
+
+Another valuable asset is our [Hackster.io](https://www.hackster.io/light-fight/light-fight-1a2e35) page, for source code and other important aspect of our design.
+
+**[Back to top](#table-of-contents)**
 
 ## Installation
 
@@ -65,11 +69,6 @@ Another valuable asset is out [Hackster.io](https://www.hackster.io/light-fight/
     1. Press Finish
 1. Build each project one by one
 
-
-## Building
-
-
-**[Back to top](#table-of-contents)**
 
 ## Project Team
 * **[Nicholas Newcomb](https://github.com/Nick-Newcomb)** - *Team Leader*
