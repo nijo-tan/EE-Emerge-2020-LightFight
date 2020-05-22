@@ -83,6 +83,6 @@ Another valuable asset is our [Hackster.io](https://www.hackster.io/light-fight/
 **[Back to top](#table-of-contents)**
  
 ## Acknowledgements
-A big thank you to *Nicholas Newcomb* for taking on a lead with this project and helping to being our idea to fruition! Thank you to Gonzalo Bernal Morhaim for working on this project with us up until Spring Quarter. Thank you to TA Sean Alling, who guided us and helped us with every aspect of the project. And thank you to Professor Knoesen for the help and guidence.
+A big thank you to *Nicholas Newcomb* for taking on a lead with this project and helping to being our idea to fruition! Thank you to Gonzalo Bernal Morhaim for working on this project with us up until Spring Quarter. Thank you to TA Sean Alling, who guided us and helped us with every aspect of the project. And thank you to Professor Knoesen for the help and guidance.
 
 **[Back to top](#table-of-contents)**
