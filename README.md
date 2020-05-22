@@ -13,9 +13,9 @@
 
 
 ## About the Project
-We wanted to developed a highly entertaining game for people of all ages. Therefore, we decided to focus on a project that could generate for a few seconds of quick entertainment and capatilize on that. We wanted to incorporate button smashing and rainbow aesthetics, which resulted in the emergence of LightFight.
+We wanted to develop a highly entertaining game for people of all ages. We decided to focus on a project that could generate for a few seconds of quick entertainment and incorporate button smashing along with rainbow aesthetics, which resulted in the emergence of LightFight.
 
-LightFight is a two player competitive game that has users smashing buttons as fast as possible in a race to the finish. The game is centralized around a common "Control Light" that changes color randomly. Each user presses a corresponding button based on the color of the Control Light. Each time a user correctly presses a button they are awarded a point. Each time a user presses the incorrect button they lose a point. Correct button presses are Indicated by a flashing "Progress Light". Each Progress light remains on after a total of 5 correct presses. Once all of an individual's Progress Lights are lit the associated player wins.
+LightFight is a two-player competitive game where users smash buttons as fast as possible in a race to the finish. The game is centralized around a common "Control Light" that changes color randomly. Each user presses a corresponding button based on the color of the Control Light, and they are awarded a point for correctly pressing a button. However, each time a user presses the incorrect button, they lose a point. Correct button presses are indicated by a flashing "Progress Light" which remains on after a total of 5 correct presses. Once all of an individual's Progress Lights are lit, the associated player wins.
 
 Our project was completed over the course of three quarters in EE-Emerge. The class is sponsored by Texas Instruments who has been a great supporter throughout our learning process. LightFight is designed using the Texas Instruments MSP430 Microcontroller and Energia IDE. 
 
