@@ -13,7 +13,7 @@
 
 
 ## About the Project
-We wanted to develop a highly entertaining game for people of all ages. We decided to focus on a project that could generate for a few seconds of quick entertainment and incorporate button smashing along with rainbow aesthetics, which resulted in the emergence of LightFight.
+We wanted to develop a highly entertaining game for people of all ages. We decided to focus on a project that could generate within a short period of time for quick entertainment and incorporate button smashing along with rainbow aesthetics, which resulted in the emergence of LightFight.
 
 LightFight is a two-player competitive game where users smash buttons as fast as possible in a race to the finish. The game is centralized around a common "Control Light" that changes color randomly. Each user presses a corresponding button based on the color of the Control Light, and they are awarded a point for correctly pressing a button. However, each time a user presses the incorrect button, they lose a point. Correct button presses are indicated by a flashing "Progress Light" which remains on after a total of 5 correct presses. Once all of an individual's Progress Lights are lit, the associated player wins.
 
