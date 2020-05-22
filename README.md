@@ -13,7 +13,7 @@
 
 
 ## About the Project
-This project is to develop a game that is enjoyable for people of all ages. Our intention was to have a highly entertaining game from ages 5 all the way up. With that in mind we decided to focus on identifying something that could generate just a few seconds of fun and then capitalizing on that. This result is LightFight. 5 minutes of button smashing, rainbow strobing fun. 
+We wanted to developed a highly entertaining game for people of all ages. Therefore, we decided to focus on a project that could generate for a few seconds of quick entertainment and capatilize on that. We wanted to incorporate button smashing and rainbow aesthetics, which resulted in the emergence of LightFight.
 
 LightFight is a two player competitive game that has users smashing buttons as fast as possible in a race to the finish. The game is centralized around a common "Control Light" that changes color randomly. Each user presses a corresponding button based on the color of the Control Light. Each time a user correctly presses a button they are awarded a point. Each time a user presses the incorrect button they lose a point. Correct button presses are Indicated by a flashing "Progress Light". Each Progress light remains on after a total of 5 correct presses. Once all of an individual's Progress Lights are lit the associated player wins.
 
@@ -83,6 +83,6 @@ Another valuable asset is our [Hackster.io](https://www.hackster.io/light-fight/
 **[Back to top](#table-of-contents)**
  
 ## Acknowledgements
-A big thank you to *Nicholas Newcomb* for taking on a lead with this project and helping to being our idea to fruition! Thank you to Gonzalo Bernal Morhaim for working on this project with us up until Spring Quarter. Thank you to TA Sean Alling, who guided us and helped us with every aspect of the project. And thank you to Professor Knoesen for the help and guidance.
+A big thank you to *Nicholas Newcomb* for taking on a lead with this project and helping to being our idea to fruition! Thank you to Gonzalo Bernal Morhaim for working on this project with us up until Spring Quarter. Thank you to TA Sean Alling, who guided us and helped us with every aspect of the project. Lastly, thank you to Professor Knoesen for the help and guidance.
 
 **[Back to top](#table-of-contents)**
