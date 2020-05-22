@@ -13,7 +13,7 @@
 
 
 ## About the Project
-This project is to develop a game that is enjoyable for people of all ages. We really wanted something that would be highly entertaining from ages 5 all the way up. With that in mind we decided to focus on identifying something that could generate just a few seconds of fun and then capitalizing on that. This result is LightFight. 5 minutes of button smashing, rainbow strobing fun. 
+This project is to develop a game that is enjoyable for people of all ages. Our intention was to have a highly entertaining game from ages 5 all the way up. With that in mind we decided to focus on identifying something that could generate just a few seconds of fun and then capitalizing on that. This result is LightFight. 5 minutes of button smashing, rainbow strobing fun. 
 
 LightFight is a two player competitive game that has users smashing buttons as fast as possible in a race to the finish. The game is centralized around a common "Control Light" that changes color randomly. Each user presses a corresponding button based on the color of the Control Light. Each time a user correctly presses a button they are awarded a point. Each time a user presses the incorrect button they lose a point. Correct button presses are Indicated by a flashing "Progress Light". Each Progress light remains on after a total of 5 correct presses. Once all of an individual's Progress Lights are lit the associated player wins.
 
@@ -29,7 +29,7 @@ In order to get help, please order a github issue.
 **[Back to top](#table-of-contents)**
 
 ## Getting Started
-This idea came up when Nicholas and Derek were brainstorming together one day. With the ambition of our team leader, **Nick**, Lightfight was born.
+This idea came up when Nicholas and Derek were brainstorming together one day. With the ambition of our team leader, Nick, Lightfight was born.
 
 ## Dependencies
 
